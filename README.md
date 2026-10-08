@@ -2,6 +2,8 @@
 
 Repositório criado para praticar e consolidar testes automatizados com Jest utilizando TypeScript.
 
+![Jest Tests](https://github.com/Renan-Lopes7/jest-practice/actions/workflows/tests.yml/badge.svg)
+
 O objetivo é desenvolver familiaridade com testes unitários, mocks, spies, testes assíncronos e validação de diferentes cenários de uma aplicação.
 
 ## 🚀 Tecnologias
